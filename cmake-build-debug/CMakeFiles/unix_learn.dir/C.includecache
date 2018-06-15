@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/panlong/learn/unix_learn/s1/demo.c
+stdio.h
+-
+stdarg.h
+-
+
+/Users/panlong/learn/unix_learn/s1/ls.c
+apue.h
+/Users/panlong/learn/unix_learn/s1/apue.h
+dirent.h
+-
+

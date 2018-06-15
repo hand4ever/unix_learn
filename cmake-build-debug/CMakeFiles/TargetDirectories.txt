@@ -1,0 +1,3 @@
+/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/unix_learn.dir
