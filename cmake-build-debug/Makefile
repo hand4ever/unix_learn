@@ -177,6 +177,87 @@ s1/ls.c.s:
 	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/ls.c.s
 .PHONY : s1/ls.c.s
 
+s1/mycopy2.o: s1/mycopy2.c.o
+
+.PHONY : s1/mycopy2.o
+
+# target to build an object file
+s1/mycopy2.c.o:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/mycopy2.c.o
+.PHONY : s1/mycopy2.c.o
+
+s1/mycopy2.i: s1/mycopy2.c.i
+
+.PHONY : s1/mycopy2.i
+
+# target to preprocess a source file
+s1/mycopy2.c.i:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/mycopy2.c.i
+.PHONY : s1/mycopy2.c.i
+
+s1/mycopy2.s: s1/mycopy2.c.s
+
+.PHONY : s1/mycopy2.s
+
+# target to generate assembly for a file
+s1/mycopy2.c.s:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/mycopy2.c.s
+.PHONY : s1/mycopy2.c.s
+
+s1/myprocess1.o: s1/myprocess1.c.o
+
+.PHONY : s1/myprocess1.o
+
+# target to build an object file
+s1/myprocess1.c.o:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess1.c.o
+.PHONY : s1/myprocess1.c.o
+
+s1/myprocess1.i: s1/myprocess1.c.i
+
+.PHONY : s1/myprocess1.i
+
+# target to preprocess a source file
+s1/myprocess1.c.i:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess1.c.i
+.PHONY : s1/myprocess1.c.i
+
+s1/myprocess1.s: s1/myprocess1.c.s
+
+.PHONY : s1/myprocess1.s
+
+# target to generate assembly for a file
+s1/myprocess1.c.s:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess1.c.s
+.PHONY : s1/myprocess1.c.s
+
+s1/myprocess2.o: s1/myprocess2.c.o
+
+.PHONY : s1/myprocess2.o
+
+# target to build an object file
+s1/myprocess2.c.o:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess2.c.o
+.PHONY : s1/myprocess2.c.o
+
+s1/myprocess2.i: s1/myprocess2.c.i
+
+.PHONY : s1/myprocess2.i
+
+# target to preprocess a source file
+s1/myprocess2.c.i:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess2.c.i
+.PHONY : s1/myprocess2.c.i
+
+s1/myprocess2.s: s1/myprocess2.c.s
+
+.PHONY : s1/myprocess2.s
+
+# target to generate assembly for a file
+s1/myprocess2.c.s:
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess2.c.s
+.PHONY : s1/myprocess2.c.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -192,6 +273,15 @@ help:
 	@echo "... s1/ls.o"
 	@echo "... s1/ls.i"
 	@echo "... s1/ls.s"
+	@echo "... s1/mycopy2.o"
+	@echo "... s1/mycopy2.i"
+	@echo "... s1/mycopy2.s"
+	@echo "... s1/myprocess1.o"
+	@echo "... s1/myprocess1.i"
+	@echo "... s1/myprocess1.s"
+	@echo "... s1/myprocess2.o"
+	@echo "... s1/myprocess2.i"
+	@echo "... s1/myprocess2.s"
 .PHONY : help
 
 

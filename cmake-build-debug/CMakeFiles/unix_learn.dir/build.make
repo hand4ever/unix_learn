@@ -105,19 +105,97 @@ CMakeFiles/unix_learn.dir/s1/ls.c.o.provides: CMakeFiles/unix_learn.dir/s1/ls.c.
 CMakeFiles/unix_learn.dir/s1/ls.c.o.provides.build: CMakeFiles/unix_learn.dir/s1/ls.c.o
 
 
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.o: CMakeFiles/unix_learn.dir/flags.make
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.o: ../s1/mycopy2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/unix_learn.dir/s1/mycopy2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/unix_learn.dir/s1/mycopy2.c.o   -c /Users/panlong/learn/unix_learn/s1/mycopy2.c
+
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/unix_learn.dir/s1/mycopy2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/panlong/learn/unix_learn/s1/mycopy2.c > CMakeFiles/unix_learn.dir/s1/mycopy2.c.i
+
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/unix_learn.dir/s1/mycopy2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/panlong/learn/unix_learn/s1/mycopy2.c -o CMakeFiles/unix_learn.dir/s1/mycopy2.c.s
+
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.requires:
+
+.PHONY : CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.requires
+
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.provides: CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.requires
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.provides.build
+.PHONY : CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.provides
+
+CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.provides.build: CMakeFiles/unix_learn.dir/s1/mycopy2.c.o
+
+
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.o: CMakeFiles/unix_learn.dir/flags.make
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.o: ../s1/myprocess1.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building C object CMakeFiles/unix_learn.dir/s1/myprocess1.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/unix_learn.dir/s1/myprocess1.c.o   -c /Users/panlong/learn/unix_learn/s1/myprocess1.c
+
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/unix_learn.dir/s1/myprocess1.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/panlong/learn/unix_learn/s1/myprocess1.c > CMakeFiles/unix_learn.dir/s1/myprocess1.c.i
+
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/unix_learn.dir/s1/myprocess1.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/panlong/learn/unix_learn/s1/myprocess1.c -o CMakeFiles/unix_learn.dir/s1/myprocess1.c.s
+
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.requires:
+
+.PHONY : CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.requires
+
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.provides: CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.requires
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.provides.build
+.PHONY : CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.provides
+
+CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.provides.build: CMakeFiles/unix_learn.dir/s1/myprocess1.c.o
+
+
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.o: CMakeFiles/unix_learn.dir/flags.make
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.o: ../s1/myprocess2.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building C object CMakeFiles/unix_learn.dir/s1/myprocess2.c.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/unix_learn.dir/s1/myprocess2.c.o   -c /Users/panlong/learn/unix_learn/s1/myprocess2.c
+
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/unix_learn.dir/s1/myprocess2.c.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/panlong/learn/unix_learn/s1/myprocess2.c > CMakeFiles/unix_learn.dir/s1/myprocess2.c.i
+
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/unix_learn.dir/s1/myprocess2.c.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/panlong/learn/unix_learn/s1/myprocess2.c -o CMakeFiles/unix_learn.dir/s1/myprocess2.c.s
+
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.requires:
+
+.PHONY : CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.requires
+
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.provides: CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.requires
+	$(MAKE) -f CMakeFiles/unix_learn.dir/build.make CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.provides.build
+.PHONY : CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.provides
+
+CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.provides.build: CMakeFiles/unix_learn.dir/s1/myprocess2.c.o
+
+
 # Object files for target unix_learn
 unix_learn_OBJECTS = \
 "CMakeFiles/unix_learn.dir/s1/demo.c.o" \
-"CMakeFiles/unix_learn.dir/s1/ls.c.o"
+"CMakeFiles/unix_learn.dir/s1/ls.c.o" \
+"CMakeFiles/unix_learn.dir/s1/mycopy2.c.o" \
+"CMakeFiles/unix_learn.dir/s1/myprocess1.c.o" \
+"CMakeFiles/unix_learn.dir/s1/myprocess2.c.o"
 
 # External object files for target unix_learn
 unix_learn_EXTERNAL_OBJECTS =
 
 unix_learn: CMakeFiles/unix_learn.dir/s1/demo.c.o
 unix_learn: CMakeFiles/unix_learn.dir/s1/ls.c.o
+unix_learn: CMakeFiles/unix_learn.dir/s1/mycopy2.c.o
+unix_learn: CMakeFiles/unix_learn.dir/s1/myprocess1.c.o
+unix_learn: CMakeFiles/unix_learn.dir/s1/myprocess2.c.o
 unix_learn: CMakeFiles/unix_learn.dir/build.make
 unix_learn: CMakeFiles/unix_learn.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable unix_learn"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking C executable unix_learn"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/unix_learn.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -127,6 +205,9 @@ CMakeFiles/unix_learn.dir/build: unix_learn
 
 CMakeFiles/unix_learn.dir/requires: CMakeFiles/unix_learn.dir/s1/demo.c.o.requires
 CMakeFiles/unix_learn.dir/requires: CMakeFiles/unix_learn.dir/s1/ls.c.o.requires
+CMakeFiles/unix_learn.dir/requires: CMakeFiles/unix_learn.dir/s1/mycopy2.c.o.requires
+CMakeFiles/unix_learn.dir/requires: CMakeFiles/unix_learn.dir/s1/myprocess1.c.o.requires
+CMakeFiles/unix_learn.dir/requires: CMakeFiles/unix_learn.dir/s1/myprocess2.c.o.requires
 
 .PHONY : CMakeFiles/unix_learn.dir/requires
 

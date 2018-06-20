@@ -1,6 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/unix_learn.dir/s1/demo.c.o"
   "CMakeFiles/unix_learn.dir/s1/ls.c.o"
+  "CMakeFiles/unix_learn.dir/s1/mycopy2.c.o"
+  "CMakeFiles/unix_learn.dir/s1/myprocess1.c.o"
+  "CMakeFiles/unix_learn.dir/s1/myprocess2.c.o"
   "unix_learn.pdb"
   "unix_learn"
 )

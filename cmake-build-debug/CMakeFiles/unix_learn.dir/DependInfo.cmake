@@ -6,6 +6,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_C
   "/Users/panlong/learn/unix_learn/s1/demo.c" "/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/unix_learn.dir/s1/demo.c.o"
   "/Users/panlong/learn/unix_learn/s1/ls.c" "/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/unix_learn.dir/s1/ls.c.o"
+  "/Users/panlong/learn/unix_learn/s1/mycopy2.c" "/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/unix_learn.dir/s1/mycopy2.c.o"
+  "/Users/panlong/learn/unix_learn/s1/myprocess1.c" "/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/unix_learn.dir/s1/myprocess1.c.o"
+  "/Users/panlong/learn/unix_learn/s1/myprocess2.c" "/Users/panlong/learn/unix_learn/cmake-build-debug/CMakeFiles/unix_learn.dir/s1/myprocess2.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

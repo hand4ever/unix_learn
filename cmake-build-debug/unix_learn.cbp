@@ -88,6 +88,15 @@
 		<Unit filename="/Users/panlong/learn/unix_learn/s1/ls.c">
 			<Option target="unix_learn"/>
 		</Unit>
+		<Unit filename="/Users/panlong/learn/unix_learn/s1/mycopy2.c">
+			<Option target="unix_learn"/>
+		</Unit>
+		<Unit filename="/Users/panlong/learn/unix_learn/s1/myprocess1.c">
+			<Option target="unix_learn"/>
+		</Unit>
+		<Unit filename="/Users/panlong/learn/unix_learn/s1/myprocess2.c">
+			<Option target="unix_learn"/>
+		</Unit>
 		<Unit filename="/Users/panlong/learn/unix_learn/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
